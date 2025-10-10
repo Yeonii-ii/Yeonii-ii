@@ -74,10 +74,6 @@
 
 ---
 
-<p align="center" style="font-family: 'Times New Roman', 'Georgia', serif; font-size: 20px; font-weight: 600; margin-top: 30px;">
-  Yeonii-ii under the Stars 🌙
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b1f3b,100:2a2f5f&section=footer&text=Yeonii-ii%20under%20the%20Stars%20🌙&fontColor=ffffff&fontSize=20&animation=twinkling"/>
 </p>
