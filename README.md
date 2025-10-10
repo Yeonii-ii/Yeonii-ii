@@ -1,9 +1,10 @@
 <p align="center">
   <img src="./assets/mv2.gif" alt="Starfall Night Sky" width="100%"/>
 </p>
+
 <p align="center">
   <a href="https://yeonii-ii.github.io/Yeonii-ii/" target="_blank" title="🌌 Yeonii's Universe">
-    <span style="font-size: 120px; line-height: 1;">🌌</span>
+    <img src="https://em-content.zobj.net/thumbs/240/apple/354/milky-way_1f30c.png" width="130px" alt="Milky Way Galaxy"/>
   </a>
 </p>
 
