@@ -7,6 +7,9 @@
     <img src="https://em-content.zobj.net/thumbs/240/apple/354/milky-way_1f30c.png" width="130px" alt="Milky Way Galaxy"/>
   </a>
 </p>
+<p align="center">
+  <sub>✨ Click the galaxy to explore <b>Yeonii’s Portfolio</b> ✨</sub>
+</p>
 
 <h1 align="center" style="font-family: 'Diphylleia', 'Georgia', 'Times New Roman', serif; font-size: 28px; font-weight: 600; letter-spacing: 1px;">
   🌙 Yeonii-ii — Dreaming Under Code Stars
