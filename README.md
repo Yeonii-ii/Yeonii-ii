@@ -1,44 +1,39 @@
-<!-- 🌙 GitHub Profile README -->
+<!-- 🌱 GitHub Profile README for Yeonii-ii -->
 
-<h1 align="center">✨ Yeonii's Code Atelier ✨</h1>
+<h1 align="center">🌙 Yeonii-ii — Learning in Code</h1>
 
 <p align="center">
-  <em>“나는 어둠 속에서 별을 컴파일한다.”</em><br>
-  <strong>코드는 나의 시, 버그는 그 여백.</strong>
+  <em>“하루하루, 한 줄의 코드로 세계를 이해한다.”</em><br>
+  <strong>코드는 나의 언어, 배우는 일은 나의 여정.</strong>
 </p>
 
 ---
 
-### 🌌 About Me
+### 🌸 About Me
 
-- 🌙 밤에 빛나는 개발자, **Yeonii-ii**입니다.  
-- 🎨 코드와 예술의 경계를 넘나드는 걸 좋아합니다.  
-- 🔭 지금은 **프론트엔드**와 **백엔드** 중심으로 공부 중이에요.  
-- 💡 “기술은 감정을 담는 그릇”이라는 말을 믿습니다.  
-
----
-
-### ⚙️ Tech Palette
-
-| 분야 | 사용 도구 |
-|------|------------|
-| 🎬 Frontend | React · JavaScript(ES6+) · jQuery · HTML · CSS |
-| 🧩 Backend  |
-| 🧠 Tools | VSCode · Git · ReShade · GeForce Experience |
+- 💻 프론트엔드와 웹 기초를 공부 중인 **Yeonii-ii**입니다.  
+- 📚 JavaScript, jQuery, React를 중심으로 실습하고 있습니다.  
+- 🌙 새로운 개념을 배울 때마다 작은 기록을 남기고 있어요.  
+- ☕ 언젠가는 스스로의 프로젝트를 완성하는 것이 목표예요.  
 
 ---
 
-### 🌠 Current Projects
+### 🧩 Learning Path
 
-- 🏗️ **Project: Moonlight Interface** — 감각적인 UI를 위한 React 공부중  
-- 🔧 **Frontend | Backend** — 열심히 공부중  
-- 📜 **Notion Code Notes** — 4단계 문법 정리(정의 · 문법 · 예제 · 주의) 시도 중  
+| 분야 | 공부 중인 내용 |
+|------|----------------|
+| 🪄 JavaScript | DOM 조작, 함수, 이벤트, 배열, 객체 |
+| 🎨 jQuery | 선택자, 이벤트, 애니메이션, 스타일 제어 |
+| ⚛️ React | 컴포넌트, props, useState, useEffect |
+| 🌐 Web Basics | HTML · CSS · 레이아웃 구조 |
 
 ---
 
-### 🩵 Favorite Line
+### ✍️ Study Notes
 
-> “코드란, 세계를 다시 쓰는 또 하나의 언어.”
+- 📖 **“기초를 단단히 쌓는 것”** — 가장 느리지만 확실한 길  
+- 🧠 **“모르면 시도하고, 틀리면 기록하기”** — 나만의 학습 방식  
+- 🪞 **“코드는 거울이다”** — 내가 이해한 만큼만 비춘다  
 
 ---
 
@@ -51,14 +46,22 @@
 
 ---
 
-### ☕ Contact
+### ☁️ Goals
 
-- 🌐 **수업정리 & 독서기록 Notion:** [https://notion.so/yourpage](https://www.notion.so/25a81fc4377380e39490e2aecf6fdf9d?source=copy_link)  
-- 💬 언제나 새로운 아이디어와 협업을 기다립니다.
+- 🔍 이해하고 넘어가기, 복사하지 않기  
+- 🧩 작은 프로젝트부터 차근차근 완성하기  
+- 🌙 “배움이 습관이 되는 하루” 만들기  
+
+---
+
+### 📚 My Notion
+
+> 🌿 배움의 기록이 담긴 작은 정원입니다.  
+> [https://www.notion.so/25a81fc4377380e39490e2aecf6fdf9d?source=copy_link](https://www.notion.so/25a81fc4377380e39490e2aecf6fdf9d?source=copy_link)
 
 ---
 
 <p align="center">
-  <em>“별빛은 멀리서 도착하지만,  
-  커밋은 오늘의 나를 비춘다.”</em>
+  <em>“오늘의 한 줄은 내일의 나를 바꾼다.”</em><br>
+  <strong>조용하지만 꾸준히 성장하는 개발자, Yeonii-ii 🌙</strong>
 </p>
