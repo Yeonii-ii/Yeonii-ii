@@ -1,1 +1,91 @@
-<img src="./assets/stars.svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="260" viewBox="0 0 1600 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- 밤하늘 그라디언트 -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1026"/>
+      <stop offset="100%" stop-color="#1b1f3b"/>
+    </linearGradient>
+
+    <!-- 별 모양 (원형 글로우) -->
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#bcd2ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#9fb6ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- 반짝임(크기/투명도) 애니메이션을 위한 심볼 -->
+    <symbol id="twinkle">
+      <circle cx="0" cy="0" r="1.8" fill="url(#starGlow)">
+        <animate attributeName="opacity"
+                 values="0.2;1;0.2"
+                 dur="2.8s"
+                 repeatCount="indefinite"
+                 begin="0s"/>
+        <animate attributeName="r"
+                 values="1.2;2.6;1.2"
+                 dur="2.8s"
+                 repeatCount="indefinite"
+                 begin="0s"/>
+      </circle>
+    </symbol>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1600" height="260" fill="url(#sky)"/>
+
+  <!-- 별자리 느낌의 랜덤 별들 (각각 시작 시간을 달리해서 자연스런 반짝임) -->
+  <!-- 첫 줄 -->
+  <use href="#twinkle" x="120"  y="60">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="300"  y="40">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="520"  y="70">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" begin="0.4s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="760"  y="45">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3.0s" begin="1.1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="980"  y="55">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="1240" y="65">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="1460" y="38">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="1.0s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- 둘째 줄 -->
+  <use href="#twinkle" x="90"   y="150">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="0.15s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="260"  y="170">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.0s" begin="1.2s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="480"  y="155">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" begin="0.7s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="700"  y="165">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" begin="0.35s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="960"  y="175">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.95s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="1200" y="160">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="0.55s" repeatCount="indefinite"/>
+  </use>
+  <use href="#twinkle" x="1420" y="170">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="1.3s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- 희미한 성운 같은 안개 -->
+  <ellipse cx="1200" cy="120" rx="260" ry="70" fill="url(#starGlow)" opacity="0.28">
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="6s" begin="0s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="380" cy="110" rx="210" ry="60" fill="url(#starGlow)" opacity="0.22">
+    <animate attributeName="opacity" values="0.12;0.28;0.12" dur="7s" begin="1s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>
