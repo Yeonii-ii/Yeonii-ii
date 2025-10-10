@@ -1,7 +1,7 @@
 <!-- 🌌 GitHub Profile README for Yeonii-ii (Night Sky + Celestial Symbols) -->
 
 <p align="center">
-  <img src="./assets/stars.svg" alt="Twinkling Night Sky" width="100%" />
+  <img src="./assets/mv2.gif" alt="Starfall Night Sky" width="100%"/>
 </p>
 
 <h1 align="center">🌙 Yeonii-ii — Dreaming Under Code Stars</h1>
