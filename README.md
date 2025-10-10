@@ -2,7 +2,9 @@
   <img src="./assets/mv2.gif" alt="Starfall Night Sky" width="100%"/>
 </p>
 
-<h1 align="center">🌙 Yeonii-ii — Dreaming Under Code Stars</h1>
+<p align="center" style="font-family: 'Diphylleia', serif; font-size: 28px; font-weight: 600; letter-spacing: 1px;">
+  🌙 Yeonii-ii — Dreaming Under Code Stars
+</p>
 
 <p align="center">
   <em>“밤하늘 아래, 조용히 한 줄의 코드를 새긴다.”</em><br>
