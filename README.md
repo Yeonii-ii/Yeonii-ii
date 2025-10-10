@@ -39,9 +39,10 @@
 <h3 align="center">💫 Notion Links</h3>
 
 <p align="center">
-  📔 [Class Notes](https://www.notion.so/25a81fc4377380e39490e2aecf6fdf9d?source=copy_link)<br>
-  📖 [Reading Log](https://www.notion.so/25a81fc437738035a7dbfe2bd3c415c6?source=copy_link)
+  📔 <a href="https://www.notion.so/25a81fc4377380e39490e2aecf6fdf9d?source=copy_link">Class Notes (수업정리)</a><br/>
+  📖 <a href="https://www.notion.so/25a81fc437738035a7dbfe2bd3c415c6?source=copy_link">Reading Log (독서기록)</a>
 </p>
+
 
 ---
 
