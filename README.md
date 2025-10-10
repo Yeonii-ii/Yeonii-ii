@@ -1,7 +1,11 @@
 <p align="center">
   <img src="./assets/mv2.gif" alt="Starfall Night Sky" width="100%"/>
 </p>
-
+<p align="center">
+  <a href="https://yeonii-ii.github.io/Yeonii-ii/" target="_blank" title="🌌 Yeonii's Universe">
+    <span style="font-size: 90px;">🌌</span>
+  </a>
+</p>
 <h1 align="center" style="font-family: 'Diphylleia', 'Georgia', 'Times New Roman', serif; font-size: 28px; font-weight: 600; letter-spacing: 1px;">
   🌙 Yeonii-ii — Dreaming Under Code Stars
 </h1>
