@@ -23,7 +23,7 @@
 <h3 align="center" style="font-family: 'Diphylleia', 'Georgia', 'Times New Roman', serif;">🌌 About</h3>
 
 <p align="center" style="font-family: 'Garamond', 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15px; line-height: 1.6;">
-  천천히 배우고, 차분히 쌓아가는 개발자 <strong>Yeonii-ii</strong>입니다.<br>
+  천천히 배우고, 차분히 쌓아가는 예비개발자 <strong>Yeonii-ii</strong>입니다.<br>
   매일 밤, 새로운 문장을 별처럼 발견하고 기록합니다.<br>
   완벽하지 않아도 괜찮아요 — 오늘의 깨달음이 내일의 나를 밝혀주니까요.
 </p>
